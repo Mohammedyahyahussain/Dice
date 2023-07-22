@@ -1,0 +1,38 @@
+ h1{
+     margin: 30px;
+    color: rgb(78, 204, 163);
+    font-size: 10rem;
+    font-weight: bolder;
+    font-family: lobster, cursive;
+
+}
+
+body{
+ background-color: #393E46;
+}
+.container{
+  width: 70%;
+margin: auto;
+text-align: center;
+}
+p{
+  font-family: 'Indie Flower', cursive;
+  color: rgb(78, 204, 163);
+  font-size: 2rem;
+  /* padding-bottom: 2rem; */
+}
+footer{
+  text-align: center;
+  color: #EEEEEE;
+  margin-top: auto;
+
+}
+.dice-parent{
+     padding: 0 0 5rem 25rem;
+}
+
+.dice{
+  display: inline-block;
+text-align: center;
+  vertical-align: middle;
+}
